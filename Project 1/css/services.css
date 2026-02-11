@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(249, 240, 229);
+}
+h1 {
+    color: white;
+    background-color: rgb(239, 193, 136);
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+h2 {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+p {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+pre {
+    font-size: 15px;
+}
+a:link, a:visited {
+    color:white;
+    background-color: rgb(136, 198, 243);
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: rgb(25, 59, 153);
+}
